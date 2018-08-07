@@ -3,5 +3,6 @@
 class DB {
     private function __construct() {
         // Conn will goes here
+        //ez jó?
     }
 }
